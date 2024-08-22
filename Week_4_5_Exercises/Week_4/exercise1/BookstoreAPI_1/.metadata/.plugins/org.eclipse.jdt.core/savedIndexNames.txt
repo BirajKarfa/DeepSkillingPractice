@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+D:\Week_4,5_Spring Rest\BookstoreAPI_1\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
